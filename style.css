@@ -140,11 +140,12 @@
 }
 #rightbox3 {
     float: left;
-    height: 65px;
+    height: 49px;
     width: 189px;
     background-color: #00a000;
     margin-left: 12px;
     border-radius: 10px 10px 10px 10px;
+    padding-top: 15px;
 }
 #bot01{
     color: white;
@@ -152,7 +153,11 @@
 }
 #bot02{
     color: white;
-    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 25px;
+    padding-left: 45px;
+    padding-top: 20px;
 }
 #nomecima{
     float: left;
@@ -160,7 +165,7 @@
     font-weight: bolder;
     font-size: 20px;
     margin-left: 20px;
-    margin-top: 25px;
+    margin-bottom: -20px;
 }
 #nomebaixo{
     float: left;
